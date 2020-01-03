@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'California Sunshine';
+  src: url('../fonts/CaliforniaSunshineRegular.eot');
+  src: url('../fonts/CaliforniaSunshineRegular.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/CaliforniaSunshineRegular.woff') format('woff'),
+    url('../fonts/CaliforniaSunshineRegular.ttf') format('truetype'),
+    url('../fonts/CaliforniaSunshineRegular.svg#CaliforniaSunshineRegular')
+      format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'California Sunshine Basic';
+  src: url('../fonts/CaliforniaSunshineBasic.eot');
+  src: url('../fonts/CaliforniaSunshineBasic.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/CaliforniaSunshineBasic.woff') format('woff'),
+    url('../fonts/CaliforniaSunshineBasic.ttf') format('truetype'),
+    url('../fonts/CaliforniaSunshineBasic.svg#CaliforniaSunshineBasic')
+      format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'California Sunshine Alternate';
+  src: url('../fonts/CaliforniaSunshineAlternate.eot');
+  src: url('../fonts/CaliforniaSunshineAlternate.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/CaliforniaSunshineAlternate.woff') format('woff'),
+    url('../fonts/CaliforniaSunshineAlternate.ttf') format('truetype'),
+    url('../fonts/CaliforniaSunshineAlternate.svg#CaliforniaSunshineAlternate')
+      format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
