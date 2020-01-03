@@ -1,2 +1,2 @@
 # slowdripdmt.com
- static html site uing webGL
+ static html site using webGL
